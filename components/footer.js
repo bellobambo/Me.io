@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className=" text-black py-4">
       <div className="container mx-auto flex items-center justify-center">
         <div className="copyright text-sm">
-          <span>&copy; 2023 My Porfolio</span>
+          <span>&copy; 2023 My Portfolio</span>
         </div>
       </div>
     </footer>
